@@ -1,0 +1,28 @@
+#error {
+    color: red;
+    display: none;
+}
+
+#error-food {
+    color: red;
+    display: none;
+}
+
+#error-rent {
+    color: red;
+    display: none;
+}
+
+#error-clothes {
+    color: red;
+    display: none;
+}
+
+#save-error {
+    color: red;
+    display: none;
+}
+#over-expense{
+    color: red;
+    display: none;
+}
